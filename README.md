@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Reactjs - Trello Project</h1>
 
-<p align="center"><img src="/public/images/demo.png" alt="project-image"></p>
+<p align="center"><img src="/public/demo.png" alt="project-image"></p>
 
 <p id="description">Embark on an exciting journey of building a Trello app with the React.js and TailwindCSS for styling.</p>
 
